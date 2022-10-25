@@ -11,7 +11,7 @@ Note: please use the commands as shown below, otherwise the commands won't work.
 
 -> arguments: nr_of_cards and nr_of_cards cards
 
-USAGE:
+Usage:
 
 ADD_DECK 3
 
@@ -28,7 +28,7 @@ ADD_DECK 3
 
 -> arguments: index of the deck in the deck list, nr_of_cards and nr_of_cards cards
 
-USAGE:
+Usage:
 
 ADD_CARDS 0 2
 
@@ -43,7 +43,7 @@ ADD_CARDS 0 2
 
 -> arguments: deck index
 
-USAGE:
+Usage:
 
 DEL_DECK 2
 
@@ -54,7 +54,7 @@ DEL_DECK 2
 
 -> arguments: deck index, card index
 
-USAGE:
+Usage:
 
 DEL_CARD 0 3
 
@@ -63,7 +63,7 @@ DEL_CARD 0 3
 
 -> returns how many decks are in the deck list
 
-USAGE:
+Usage:
 
 DECK_NUMBER
 
@@ -74,7 +74,7 @@ DECK_NUMBER
 
 -> arguments: deck index
 
-USAGE:
+Usage:
 
 DECK_LEN 0
 
@@ -85,7 +85,7 @@ DECK_LEN 0
 
 -> arguments: deck index
 
-USAGE:
+Usage:
 
 REVERSE_DECK 0
 
@@ -96,7 +96,7 @@ REVERSE_DECK 0
 
 -> arguments: deck1 index, deck2 index
 
-USAGE
+Usage
 
 MERGE_DECKS 1 2
 
@@ -111,7 +111,7 @@ MERGE_DECKS 0 0
 
 -> arguments: deck index
 
-USAGE:
+Usage:
 
 SHUFFLE_DECK 0
 
@@ -122,7 +122,7 @@ SHUFFLE_DECK 0
 
 -> arguments: deck index, split index
 
-USAGE:
+Usage:
 
 SPLIT_DECK 0 5
 
@@ -133,7 +133,7 @@ SPLIT_DECK 0 5
 
 -> arguments: deck index
 
-USAGE:
+Usage:
 
 SORT_DECK 0
 
@@ -143,7 +143,7 @@ SORT_DECK 0
 
 -> arguments: deck index
 
-USAGE:
+Usage:
 
 SHOW_DECK 0
 
@@ -152,7 +152,7 @@ SHOW_DECK 0
 
 -> prints the decks and its cards
 
-USAGE:
+Usage:
 
 SHOW_ALL
 
